@@ -1,4 +1,4 @@
-# Kodluyoruz Bootstrap Ödev1
+
 ## View | Home
 ![index.html](img/bootstrap-index-screenshot.png)
 ## View | About
